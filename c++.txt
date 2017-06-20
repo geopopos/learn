@@ -1,0 +1,4 @@
+C++ Learning Plan
+
+1. Learn conditionals
+2. Learn Classes
